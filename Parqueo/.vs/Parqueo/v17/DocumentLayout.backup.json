@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\parqueo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|solutionrelative:parqueo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\parqueo\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|solutionrelative:parqueo\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|c:\\users\\michael\\desktop\\proyectos\\parqueo\\parqueo\\parqueo\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|solutionrelative:parqueo\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\parqueo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|solutionrelative:parqueo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\parqueo\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|solutionrelative:parqueo\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\parqueo\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|solutionrelative:parqueo\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\parqueo\\models\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|solutionrelative:parqueo\\models\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\parqueo\\models\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|solutionrelative:parqueo\\models\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\parqueo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|solutionrelative:parqueo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\parqueo\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|solutionrelative:parqueo\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\parqueo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43BBEE21-F051-4FA4-9A81-C0DFCE5E6155}|Parqueo\\Parqueo.csproj|solutionrelative:parqueo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\Form1.cs",
+              "RelativeDocumentMoniker": "Parqueo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\Form1.cs",
+              "RelativeToolTip": "Parqueo\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T06:55:31.301Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Parqueo\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\Models\\Usuarios.cs",
+              "RelativeToolTip": "Parqueo\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:45:00.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmMantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\FrmMantenimiento.cs",
+              "RelativeDocumentMoniker": "Parqueo\\FrmMantenimiento.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\FrmMantenimiento.cs",
+              "RelativeToolTip": "Parqueo\\FrmMantenimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:55:40.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMantenimiento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\FrmMantenimiento.cs",
+              "RelativeDocumentMoniker": "Parqueo\\FrmMantenimiento.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\progra ll\\Parqueo\\Parqueo\\FrmMantenimiento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\progra ll\\Parqueo\\Parqueo\\FrmMantenimiento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:54:53.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Security.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\Models\\Security.cs",
+              "RelativeDocumentMoniker": "Parqueo\\Models\\Security.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\Models\\Security.cs",
+              "RelativeToolTip": "Parqueo\\Models\\Security.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:42:40.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reply.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\Models\\Reply.cs",
+              "RelativeDocumentMoniker": "Parqueo\\Models\\Reply.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\Models\\Reply.cs",
+              "RelativeToolTip": "Parqueo\\Models\\Reply.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:11:42.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioDal.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\UsuarioDal.cs",
+              "RelativeDocumentMoniker": "Parqueo\\UsuarioDal.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\UsuarioDal.cs",
+              "RelativeToolTip": "Parqueo\\UsuarioDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T08:05:27.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\Conexion.cs",
+              "RelativeDocumentMoniker": "Parqueo\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\Conexion.cs",
+              "RelativeToolTip": "Parqueo\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T07:53:33.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\Program.cs",
+              "RelativeDocumentMoniker": "Parqueo\\Program.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\Program.cs",
+              "RelativeToolTip": "Parqueo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:40:09.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "Parqueo\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\FrmMenu.cs",
+              "RelativeToolTip": "Parqueo\\FrmMenu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAASwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T07:21:30.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\Form1.cs",
+              "RelativeDocumentMoniker": "Parqueo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\Proyectos\\Parqueo\\Parqueo\\Parqueo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parqueo\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T06:54:08.412Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\Michael\Desktop\progra ll\Parqueo\Parqueo\bin\Debug\Parqueo.exe.config
+C:\Users\Michael\Desktop\progra ll\Parqueo\Parqueo\bin\Debug\Parqueo.exe
+C:\Users\Michael\Desktop\progra ll\Parqueo\Parqueo\bin\Debug\Parqueo.pdb
+C:\Users\Michael\Desktop\progra ll\Parqueo\Parqueo\obj\Debug\Parqueo.csproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\progra ll\Parqueo\Parqueo\obj\Debug\Parqueo.Form1.resources
+C:\Users\Michael\Desktop\progra ll\Parqueo\Parqueo\obj\Debug\Parqueo.Properties.Resources.resources
+C:\Users\Michael\Desktop\progra ll\Parqueo\Parqueo\obj\Debug\Parqueo.csproj.GenerateResource.cache
+C:\Users\Michael\Desktop\progra ll\Parqueo\Parqueo\obj\Debug\Parqueo.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\progra ll\Parqueo\Parqueo\obj\Debug\Parqueo.exe
+C:\Users\Michael\Desktop\progra ll\Parqueo\Parqueo\obj\Debug\Parqueo.pdb
+C:\Users\Michael\Desktop\progra ll\Parqueo\Parqueo\obj\Debug\Parqueo.FrmMenu.resources
+C:\Users\Michael\Desktop\progra ll\Parqueo\Parqueo\obj\Debug\Parqueo.FrmMantenimiento.resources
